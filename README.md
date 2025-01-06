@@ -6,13 +6,13 @@ This project provides a cutting-edge solution to detect cyberbullying in social 
 
 ## 📜 Table of Contents
 
-1. [Introduction](#introduction)
-2. [Technologies Used](#technologies-used)
+1. [📝 Introduction](#introduction)
+2. [🛠️ Technologies Used](#technologies-used)
 3. [🏗️ Project Structure and Recent Updates](#project-structure-and-recent-updates)
-4. [How It Works](#how-it-works)
+4. [🔍 How It Works](#how-it-works)
 5. [🛠️ Getting Started](#getting-started)
-6. [Dataset](#dataset)
-7. [Results](#results)
+6. [📊 Dataset](#dataset)
+7. [📈 Results](#results)
 8. [🚀 Features and Future Enhancements](#features-and-future-enhancements)
 
 ---
