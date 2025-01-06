@@ -60,7 +60,7 @@ project_root/
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your_username/cyberbullying-detection.git
+   git clone https://github.com/kumar/cyberbullying-detection.git
    cd cyberbullying-detection
    ```
 
